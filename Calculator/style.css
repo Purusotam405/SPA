@@ -1,0 +1,33 @@
+*{
+    padding:5px;
+    margin:5px;
+}
+table{
+    margin:0 auto;
+    background: blue;
+}
+
+.title{
+    text-align:center;
+    padding:10px;
+    margin:10px;
+}
+input[type="button"]
+{
+    border-radius: 10px;
+    background-color:blue;
+    color: white;
+    border-color:black ;
+    width:100%;
+}
+input[type="text"]
+{
+    border-radius: 10px;
+    text-align: right;
+    background-color:black;
+    color: white;
+    border-color: white;
+    width:90%;
+    padding:5px;
+}
+
